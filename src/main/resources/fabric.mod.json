@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "rune_essence",
+	"version": "0.0.0",
+	"name": "Rune Essence",
+	"description": "RPG Series Addon for Rune Crafting with Rune Essence",
+	"authors": [
+		"average_anime"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "GPLv3",
+	"icon": "assets/rune_essence/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.averageanime.RuneEssence.RuneEssence"
+		],
+		"client": [
+			"net.averageanime.RuneEssence.RuneEssenceClient"
+		],
+		"fabric-datagen": [
+			"net.averageanime.RuneEssence.RuneEssenceDataGenerator"
+		]
+	},
+	"mixins": [
+
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+
+	},
+	"suggests": {
+		"": "*"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:small_amethyst_bud",
+      "required": false
+    },
+    {
+      "id": "minecraft:medium_amethyst_bud",
+      "required": false
+    }
+  ]
+}

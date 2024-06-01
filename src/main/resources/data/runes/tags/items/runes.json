@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "more_rpg_classes:aqua_stone",
+      "required": false
+    },
+    {
+      "id": "more_rpg_classes:storm_stone",
+      "required": false
+    },
+    {
+      "id": "more_rpg_classes:terra_stone",
+      "required": false
+    }
+  ]
+}

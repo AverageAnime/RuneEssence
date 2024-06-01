@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:recovery_compass",
+      "required": false
+    },
+    {
+      "id": "minecraft:echo_shard",
+      "required": false
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_torch",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "required": false
+    }
+  ]
+}

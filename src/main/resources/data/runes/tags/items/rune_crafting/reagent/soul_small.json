@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:lapis_lazuli",
+      "required": false
+    },
+    {
+      "id": "minecraft:ghast_tear",
+      "required": false
+    },
+    {
+      "id": "minecraft:bone_meal",
+      "required": false
+    },
+    {
+      "id": "minecraft:fermented_spider_eye",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_sand",
+      "required": false
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "required": false
+    }
+  ]
+}

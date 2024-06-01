@@ -1,0 +1,606 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "createfood:flowing_squid_ink",
+      "required": false
+    },
+    {
+      "id": "createfood:squid_ink",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_melon_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:melon_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_melon_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:melon_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_melon_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:melon_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_melon_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:melon_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chorus_fruit_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:chorus_fruit_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_glow_berry_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:glow_berry_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_berry_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:berry_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_apple_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:apple_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chorus_fruit_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:chorus_fruit_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_glow_berry_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:glow_berry_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_berry_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:berry_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_apple_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:apple_jam",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_coffee_toffee_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:coffee_toffee_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_coffee_toffee",
+      "required": false
+    },
+    {
+      "id": "createfood:coffee_toffee",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_apple_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:apple_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_apple_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:apple_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chorus_fruit_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:chorus_fruit_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chorus_fruit_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:chorus_fruit_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_glow_berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:glow_berry_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_glow_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:glow_berry_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chocolate_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:chocolate_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chocolate_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:chocolate_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:milkshake",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:ice_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_heavy_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:heavy_cream",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_slime",
+      "required": false
+    },
+    {
+      "id": "createfood:slime",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_white_chocolate_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:white_chocolate_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_dark_chocolate_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:dark_chocolate_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chocolate_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:chocolate_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_caramel_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:caramel_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_toffee_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:toffee_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_butterscotch_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:butterscotch_fudge",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_apple_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:apple_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_condensed_milk",
+      "required": false
+    },
+    {
+      "id": "createfood:condensed_milk",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chocolate_pudding",
+      "required": false
+    },
+    {
+      "id": "createfood:chocolate_pudding",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_caramel_pudding",
+      "required": false
+    },
+    {
+      "id": "createfood:caramel_pudding",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_butterscotch_pudding",
+      "required": false
+    },
+    {
+      "id": "createfood:butterscotch_pudding",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_butterscotch",
+      "required": false
+    },
+    {
+      "id": "createfood:butterscotch",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_toffee",
+      "required": false
+    },
+    {
+      "id": "createfood:toffee",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_blackstrap_molasses",
+      "required": false
+    },
+    {
+      "id": "createfood:blackstrap_molasses",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_molasses",
+      "required": false
+    },
+    {
+      "id": "createfood:molasses",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_cane_syrup",
+      "required": false
+    },
+    {
+      "id": "createfood:cane_syrup",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_sugar_cane_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:sugar_cane_juice",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_vegetable_oil",
+      "required": false
+    },
+    {
+      "id": "createfood:vegetable_oil",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_red_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:red_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_black_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:black_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_blue_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:blue_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_brown_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:brown_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_cyan_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:cyan_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_gray_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:gray_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_green_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:green_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_light_gray_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:light_gray_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_lime_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:lime_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_orange_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:orange_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_pink_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:pink_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_purple_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:purple_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_yellow_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:yellow_gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_gelatin_mix",
+      "required": false
+    },
+
+    {
+      "id": "createfood:gelatin_mix",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_glow_berry_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:glow_berry_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chorus_fruit_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:chorus_fruit_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_cacao_butter",
+      "required": false
+    },
+    {
+      "id": "createfood:cacao_butter",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_berry_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:berry_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_caramel",
+      "required": false
+    },
+    {
+      "id": "createfood:caramel",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chocolate_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:chocolate_cream_frosting",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_chocolate_milk",
+      "required": false
+    },
+    {
+      "id": "createfood:chocolate_milk",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_hot_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:hot_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_hot_dark_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:hot_dark_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_hot_white_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:hot_white_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_cacao_mass",
+      "required": false
+    },
+    {
+      "id": "createfood:cacao_mass",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_white_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:white_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:flowing_dark_chocolate",
+      "required": false
+    },
+    {
+      "id": "createfood:dark_chocolate",
+      "required": false
+    }
+  ]
+}

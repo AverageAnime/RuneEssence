@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "runes:healing_stone",
+      "required": false
+    },
+    {
+      "id": "runes:lightning_stone",
+      "required": false
+    },
+    {
+      "id": "runes:soul_stone",
+      "required": false
+    },
+    {
+      "id": "more_rpg_classes:aqua_stone",
+      "required": false
+    },
+    {
+      "id": "more_rpg_classes:storm_stone",
+      "required": false
+    },
+    {
+      "id": "more_rpg_classes:terra_stone",
+      "required": false
+    }
+  ]
+}

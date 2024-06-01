@@ -1,0 +1,23 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "more_rpg_classes"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "runes:rune_crafting/base/essence"
+    },
+    {
+      "tag": "runes:rune_crafting/reagent/earth_small"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "more_rpg_classes:terra_stone"
+  }
+}

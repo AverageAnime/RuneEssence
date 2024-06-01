@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:feather",
+      "required": false
+    },
+    {
+      "id": "minecraft:string",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_wool",
+      "required": false
+    }
+  ]
+}

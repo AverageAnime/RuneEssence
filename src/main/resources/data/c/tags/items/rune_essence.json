@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rune_essence:rune_essence",
+      "required": false
+    }
+  ]
+}

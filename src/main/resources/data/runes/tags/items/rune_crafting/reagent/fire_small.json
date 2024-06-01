@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:magma_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:nether_brick",
+      "required": false
+    },
+    {
+      "id": "minecraft:blaze_rod",
+      "required": false
+    }
+  ]
+}

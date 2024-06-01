@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "rune_essence:rune_essence"
+    }
+  },
+  "result": {
+    "item": "rune_essence:rune_essence_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:kelp",
+      "required": false
+    },
+    {
+      "id": "minecraft:seagrass",
+      "required": false
+    },
+    {
+      "id": "minecraft:sea_pickle",
+      "required": false
+    },
+    {
+      "id": "minecraft:ink_sac",
+      "required": false
+    },
+    {
+      "id": "minecraft:tube_corral",
+      "required": false
+    },
+    {
+      "id": "minecraft:brain_corral",
+      "required": false
+    },
+    {
+      "id": "minecraft:fire_corral",
+      "required": false
+    },
+    {
+      "id": "minecraft:horn_corral",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_tube_corral",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_brain_corral",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_fire_corral",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_horn_corral",
+      "required": false
+    }
+  ]
+}

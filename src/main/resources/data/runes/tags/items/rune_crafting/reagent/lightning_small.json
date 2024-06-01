@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:glowstone",
+      "required": false
+    },
+    {
+      "id": "minecraft:quartz",
+      "required": false
+    },
+    {
+      "id": "minecraft:compass",
+      "required": false
+    },
+    {
+      "id": "minecraft:daylight_detector",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_ingot",
+      "required": false
+    },
+    {
+      "id": "minecraft:redstone",
+      "required": false
+    }
+  ]
+}

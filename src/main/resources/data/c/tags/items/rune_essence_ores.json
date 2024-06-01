@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rune_essence:rune_essence_ore",
+      "required": false
+    },
+    {
+      "id": "rune_essence:deepslate_rune_essence_ore",
+      "required": false
+    }
+  ]
+}

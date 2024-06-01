@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "runes:rune_crafting/base/pure_essence"
+    },
+    {
+      "tag": "runes:rune_crafting/reagent/soul_medium"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "runes:soul_stone"
+  }
+}

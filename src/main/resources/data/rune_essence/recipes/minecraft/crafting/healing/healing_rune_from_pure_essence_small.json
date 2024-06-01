@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "runes:rune_crafting/base/pure_essence"
+    },
+    {
+      "tag": "runes:rune_crafting/reagent/healing_small"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "runes:healing_stone"
+  }
+}

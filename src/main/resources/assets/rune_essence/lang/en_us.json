@@ -1,0 +1,20 @@
+{
+  "block.rune_essence.deepslate_rune_essence_ore": "Deepslate Rune Essence Ore",
+  "block.rune_essence.pure_essence_block": "Block of Pure Essence",
+  "block.rune_essence.rune_essence_block": "Block of Rune Essence",
+  "block.rune_essence.rune_essence_ore": "Rune Essence Ore",
+  "gui.rune_essence.air_rune_crafting" : "Air Rune Crafting",
+  "item.rune_essence.air_talisman": "Air Talisman",
+  "item.rune_essence.arcane_talisman": "Arcane Talisman",
+  "item.rune_essence.earth_talisman": "Earth Talisman",
+  "item.rune_essence.fire_talisman": "Fire Talisman",
+  "item.rune_essence.frost_talisman": "Frost Talisman",
+  "item.rune_essence.healing_talisman": "Healing Talisman",
+  "item.rune_essence.lightning_talisman": "Lightning Talisman",
+  "item.rune_essence.pure_essence": "Pure Essence",
+  "item.rune_essence.rune_essence": "Rune Essence",
+  "item.rune_essence.soul_talisman": "Soul Talisman",
+  "item.rune_essence.talisman": "Talisman",
+  "item.rune_essence.water_talisman": "Water Talisman",
+  "itemgroup.rune_essence": "Rune Essence"
+}

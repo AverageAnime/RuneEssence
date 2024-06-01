@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:honey_bottle",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_carrot",
+      "required": false
+    }
+  ]
+}

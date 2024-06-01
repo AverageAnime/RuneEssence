@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "runes:rune_crafting/base/essence"
+    },
+    {
+      "tag": "runes:rune_crafting/reagent/lightning_small"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "runes:lightning_stone"
+  }
+}

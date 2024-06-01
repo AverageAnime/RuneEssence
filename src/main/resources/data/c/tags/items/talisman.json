@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rune_essence:talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:arcane_talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:fire_talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:frost_talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:healing_talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:lightning_talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:soul_talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:air_talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:earth_talisman",
+      "required": false
+    },
+    {
+      "id": "rune_essence:water_talisman",
+      "required": false
+    }
+  ]
+}

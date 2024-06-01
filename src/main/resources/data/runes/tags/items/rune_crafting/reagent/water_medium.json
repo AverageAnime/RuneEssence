@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:sponge",
+      "required": false
+    },
+    {
+      "id": "minecraft:wet_sponge",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine",
+      "required": false
+    },
+    {
+      "id": "minecraft:dark_prismarine",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_bricks",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_crystals",
+      "required": false
+    },
+    {
+      "id": "minecraft:prismarine_shards",
+      "required": false
+    },
+    {
+      "id": "minecraft:nautilus_shell",
+      "required": false
+    },
+    {
+      "id": "minecraft:glow_ink_sac",
+      "required": false
+    }
+  ]
+}

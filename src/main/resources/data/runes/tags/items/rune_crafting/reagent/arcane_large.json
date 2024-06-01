@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rune_essence:arcane_talisman",
+      "required": false
+    }
+  ]
+}
