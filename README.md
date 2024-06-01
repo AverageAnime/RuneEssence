@@ -1,16 +1,17 @@
 
+![rclogo](https://github.com/AverageAnime/RuneEssence/assets/150550990/50c34526-fbe2-419a-904c-16fc6c6fe4c6)
 ### **About:**
 
-Rune Essence is an add-on for RPG Series based on enhancing your experience crafting runes. Obtain Rune Essence and Pure Essence through mining to unlock new ways of crafting runes.
+Rune Essence is an add-on for Runes / Spell Engine based on enhancing the rune crafting experience. Obtain Rune Essence and Pure Essence through mining to unlock new ways of crafting runes.
 
 ### **Current Content:**
 
-* Rune Essence Ore & Deepslate Rune Essence Ore now spawns throughout the Overworld.  
+* Rune Essence Ore & Deepslate Rune Essence Ore can be found throughout the Overworld.
 * Increase your yields by using Rune Essence or Pure Essence.
-* Lightning & Soul Runes can now be crafted at both normal and high yields.
 * More ways to craft runes with newly tagged reagents, both small and medium.
-* Increase yields even further with the use of Talismans. 
-
+* Increase yields even further with the use of Talismans.
+* Lightning & Soul Runes can now be crafted at both normal and high yields, by hand or by altar crafting.
+* Animated texture for Pure Essence.
 
 ### **Required Dependencies:**
 
@@ -20,6 +21,7 @@ Rune Essence is an add-on for RPG Series based on enhancing your experience craf
 
 * [Almost United](https://www.curseforge.com/minecraft/mc-mods/almost-unified) - Unify recipes to reduce item overlap.
 * [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) - View recipes and items. Altar recipes do not appear.
+* [Runes](https://www.curseforge.com/minecraft/mc-mods/rune-crafting) - Necessary for Rune Essence to function, just not a dependency.
 
 ### **Optional items available for:**
 
