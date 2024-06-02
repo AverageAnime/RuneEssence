@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
 	"id": "rune_essence",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"name": "Rune Essence",
-	"description": "RPG Series Addon for Rune Crafting with Rune Essence",
+	"description": "Runes / Spell Engine Addon for Rune Crafting with Rune Essence",
 	"authors": [
 		"average_anime"
 	],
