@@ -3,6 +3,7 @@
 
 Rune Essence is an add-on for Runes / Spell Engine based on enhancing the rune crafting experience. Obtain Rune Essence and Pure Essence through mining to unlock new ways of crafting runes.
 
+View [Recipes](https://github.com/AverageAnime/RuneEssence/wiki/Recipes) / [Items](https://github.com/AverageAnime/RuneEssence/wiki/Item-Preview)
 ### **Current Content:**
 
 * Rune Essence Ore & Deepslate Rune Essence Ore can be found throughout the Overworld.
