@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "rune_essence",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Rune Essence",
 	"description": "Runes / Spell Engine Addon for Rune Crafting with Rune Essence",
 	"authors": [
 		"average_anime"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": ""
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/rune-essence",
+		"sources": "https://github.com/AverageAnime/RuneEssence"
 	},
 	"license": "GPLv3",
 	"icon": "assets/rune_essence/icon.png",
