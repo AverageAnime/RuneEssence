@@ -4,10 +4,10 @@
     "tag": "runes:rune_crafting/base/pure_essence"
   },
   "addition": {
-    "tag": "runes:rune_crafting/reagent/fire_small"
+    "tag": "runes:rune_crafting/reagent/arcane_small"
   },
   "result": {
     "count": 16,
-    "item": "runes:fire_stone"
+    "item": "runes:arcane_stone"
   }
 }
