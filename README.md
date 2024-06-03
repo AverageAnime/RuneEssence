@@ -1,4 +1,4 @@
-![rclogo](https://github.com/AverageAnime/RuneEssence/assets/150550990/1876fa66-4900-4529-bf58-315f4a8e99b1)
+![rclogo](https://github.com/AverageAnime/RuneEssence/assets/150550990/9a49091c-6cde-4a3b-a92e-fc319adcc572)
 ### **About:**
 
 Rune Essence is an add-on for Runes / Spell Engine based on enhancing the rune crafting experience. Obtain Rune Essence and Pure Essence through mining to unlock new ways of crafting runes.
